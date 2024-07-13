@@ -3,11 +3,11 @@ class Solution:
         left = 0
         right = len(nums) - 1
         ans = 9999999
-        
+        if(nums[left] < nums[right]):
+            return nums[left]
         while(left <= right):
             
             mid = left + int((right-left)/2)
-            
             if left == mid == right:
                 return nums[left]
             
