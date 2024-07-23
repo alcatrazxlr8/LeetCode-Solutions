@@ -9,10 +9,8 @@ class Solution:
     def trav(self, root, ans):
         if root:
             ans.append(root.val)
-            if root.left:
-                self.trav(root.left, ans)
-            if root.right:
-                self.trav(root.right, ans)
+            self.trav(root.left, ans)
+            self.trav(root.right, ans)
         
         return ans
     
