@@ -10,7 +10,7 @@ class Solution:
             return True
         if (p and not q) or (not p and q):
             return False
-        if p and q:
-            if (p.val != q.val):
-                return False
+        # if p and q:
+        if (p.val != q.val):
+            return False
         return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
