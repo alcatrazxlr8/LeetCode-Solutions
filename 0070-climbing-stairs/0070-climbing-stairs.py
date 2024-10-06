@@ -9,3 +9,9 @@ class Solution:
             dp[i] = dp[i-1] + dp[i-2]
             
         return dp[n]
+
+        
+        # if n <= 2:
+        #     return n
+        # else:
+        #     return self.climbStairs(n-1) + self.climbStairs(n-2)
