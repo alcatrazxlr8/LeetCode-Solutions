@@ -1,21 +1,17 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         
-        ans = []
-        # for i in range(n):
-        #     tmp = []
-        #     s = ""
-        #     for j in range(n):
-        #         s += "."
-        #     grid.append(s)
-        # ans.append(grid)
-        # grid = ['.' * n for _ in range(n)]
-        grid = [['.' for _ in range(n)] for _ in range(n)]
+        if n == 1:
+            return [["Q"]]
+        elif n == 2 or n == 3:
+            return []
         
+        ans = []
+        grid = [['.' for _ in range(n)] for _ in range(n)]
         
         def canFill(grid: List[List[str]], r: int, c: int) -> bool:
             
-            ### upper diag
+            ### upper diag [row, col both decreasing]
             row, col = r, c
             while(row >= 0 and col >= 0):
                 if grid[row][col] == "Q":
@@ -23,14 +19,14 @@ class Solution:
                 row -= 1
                 col -= 1
             
-            ### left
+            ### left [col decreasing]
             row, col = r, c
             while col >= 0:
                 if grid[row][col] == "Q":
                     return False
                 col -= 1
             
-            ### lower diag
+            ### lower diag [col decreasing, row increasing]
             row, col = r, c
             while col >= 0 and row < n:
                 if grid[row][col] == "Q":
