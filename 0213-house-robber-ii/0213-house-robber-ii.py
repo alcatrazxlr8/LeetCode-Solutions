@@ -1,14 +1,12 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        
-        def helper(nums):
-            rob1, rob2 = 0, 0
-
+        if len(nums) == 1:
+            return nums[0]
+        def getMax(nums):
+            prev, curr = 0, 0
             for n in nums:
-                temp = max(n + rob1, rob2)
-                rob1 = rob2
-                rob2 = temp
-
-            return rob2
-        
-        return max(nums[0], helper(nums[1:]), helper(nums[:-1]))
+                tmp = max(n+prev, curr)
+                prev = curr
+                curr = tmp
+            return curr
+        return max(getMax(nums[:-1]), getMax(nums[1:]))
