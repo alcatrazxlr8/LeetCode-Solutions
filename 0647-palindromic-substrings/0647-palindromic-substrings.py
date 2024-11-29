@@ -1,17 +1,15 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        count = 0
+        count = [0]
+        def palindrome(l, r):
+            while l >= 0 and r < len(s) and s[l] == s[r]:
+                count[0] += 1
+                l -= 1
+                r += 1
+            return
         
-        def centerExpand(left, right):
-            count = 0
-            while left >= 0 and right < len(s) and s[left] == s[right]:
-                left -= 1
-                right += 1
-                count += 1
-            return count
-
         for i in range(len(s)):
-            count += centerExpand(i, i)
-            count += centerExpand(i, i+1)
-            
-        return count
+            palindrome(i, i)
+            palindrome(i, i+1)
+
+        return count[0]
