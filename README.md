@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0647-palindromic-substrings](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
@@ -19,5 +20,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0647-palindromic-substrings](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
