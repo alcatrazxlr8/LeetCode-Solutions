@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0213-house-robber-ii](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
@@ -49,4 +50,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
