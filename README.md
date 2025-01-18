@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
@@ -125,6 +127,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
