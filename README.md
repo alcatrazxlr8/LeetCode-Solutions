@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0202-happy-number) |
 ## Combinatorics
 |  |
