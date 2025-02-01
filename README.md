@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [3429-special-array-i](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
