@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,4 +188,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
