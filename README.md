@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 | [3429-special-array-i](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0768-partition-labels](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0768-partition-labels) |
+| [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 ## Trie
 |  |
 | ------- |
@@ -171,8 +173,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Design
+|  |
+| ------- |
+| [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 <!---LeetCode Topics End-->
