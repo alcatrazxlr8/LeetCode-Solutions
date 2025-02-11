@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -170,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
