@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
@@ -189,4 +190,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
