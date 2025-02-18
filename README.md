@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0202-happy-number) |
