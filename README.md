@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0768-partition-labels) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 ## Trie
 |  |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0733-flood-fill](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 ## Bit Manipulation
 |  |
@@ -220,8 +224,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
