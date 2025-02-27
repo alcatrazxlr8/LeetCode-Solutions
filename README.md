@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 | [3429-special-array-i](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3429-special-array-i) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
