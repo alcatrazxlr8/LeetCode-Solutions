@@ -6,29 +6,13 @@
 
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
-        
-        ### SET
-        visited = set()
-        curr = head
-        while curr:
-            if curr in visited:
+        if not head:
+            return False
+        slowHead = head
+        fastHead = head
+        while(fastHead and fastHead.next):
+            slowHead = slowHead.next
+            fastHead = fastHead.next.next
+            if slowHead == fastHead:
                 return True
-            
-            visited.add(curr)
-            curr = curr.next
-            
         return False
-            
-        
-#         ### TORTOISE & HARE [SLOW & FAST POINTER]
-#         fast = head
-        
-#         while fast and fast.next:
-#             fast = fast.next.next
-#             head = head.next
-            
-#             if head == fast:
-#                 return True
-        
-#         return False
-            
