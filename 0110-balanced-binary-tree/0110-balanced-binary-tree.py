@@ -8,10 +8,9 @@ class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
         def dfs(root):
             if not root:
-                return [True, 0]
-            l = dfs(root.left)
-            r = dfs(root.right)
-            bal = l[0] and r[0] and (abs(l[1] - r[1]) <= 1)
-            return [bal, 1 + max(l[1], r[1])]
-        
-        return dfs(root)[0]
+                return [0, True]
+            left = dfs(root.left)
+            right = dfs(root.right)
+            return [1 + max(left[0], right[0]), left[1] and right[1] and (abs(left[0]-right[0]) <= 1)]
+
+        return dfs(root)[1]
