@@ -8,7 +8,8 @@ class MyQueue:
         self.s1.append(x)
 
     def pop(self) -> int:
-        if self.s1 and not self.s2:
+        # if self.s1 and not self.s2:
+        if not self.s2:
             while self.s1:
                 self.s2.append(self.s1.pop())
         return self.s2.pop()
