@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2649-count-total-number-of-colored-cells](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 ## Combinatorics
 |  |
 | ------- |
