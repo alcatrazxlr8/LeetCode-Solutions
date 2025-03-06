@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0091-decode-ways) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
@@ -289,4 +291,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
