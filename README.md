@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 | [2551-apply-operations-to-an-array](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Trie
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Combinatorics
 |  |
 | ------- |
@@ -194,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [3227-find-missing-and-repeated-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
