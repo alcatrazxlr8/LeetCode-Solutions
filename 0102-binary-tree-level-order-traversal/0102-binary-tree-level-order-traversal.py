@@ -9,7 +9,7 @@ class Solution:
         ans = []
         q = collections.deque()
         q.append(root)
-        
+
         while q:
             qLen = len(q)
             level = []
