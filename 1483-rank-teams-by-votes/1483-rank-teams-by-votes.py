@@ -7,6 +7,6 @@ class Solution:
             
             for vote in votes:
                 for rank, team in enumerate(vote):
-                    ranks[team][rank] -= 1
-            sortedTeams = sorted(votes[0], key=lambda team:(ranks[team], team))
+                    ranks[team][rank] += 1
+            sortedTeams = sorted(votes[0], key=lambda team:(ranks[team], -ord(team)), reverse=True)
             return "".join(sortedTeams)
