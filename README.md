@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1483-rank-teams-by-votes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1483-rank-teams-by-votes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [1250-longest-common-subsequence](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
+| [1483-rank-teams-by-votes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1483-rank-teams-by-votes) |
 | [1894-merge-strings-alternately](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Breadth-First Search
 |  |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1483-rank-teams-by-votes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1483-rank-teams-by-votes) |
 | [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1483-rank-teams-by-votes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1483-rank-teams-by-votes) |
 ## Simulation
 |  |
 | ------- |
@@ -244,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0383-ransom-note](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1483-rank-teams-by-votes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1483-rank-teams-by-votes) |
 | [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 ## Recursion
 |  |
