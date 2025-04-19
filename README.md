@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0542-01-matrix) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0778-reorganize-string) |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Backtracking
 |  |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1483-rank-teams-by-votes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1483-rank-teams-by-votes) |
@@ -270,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -340,15 +345,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
