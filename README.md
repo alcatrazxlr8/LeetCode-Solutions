@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0139-word-break) |
@@ -224,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
