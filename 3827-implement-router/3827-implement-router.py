@@ -1,61 +1,44 @@
-from collections import deque
 class Router:
 
     def __init__(self, memoryLimit: int):
+        self.memory = 0
         self.memoryLimit = memoryLimit
-        self.packets = collections.deque()
-        self.s = set()
-        self.d = defaultdict(list) # use this with key=dest
+        self.router = deque()
+        self.dupe = set()
+        self.d = defaultdict(list) # {dest: [timestamp1, timestamp2], .........}
 
     def addPacket(self, source: int, destination: int, timestamp: int) -> bool:
-        pkt = (source, destination, timestamp)
-        # check if already exists
-        if pkt in self.s:
+        ## first check for duplicates
+        packet = [source, destination, timestamp]
+        if tuple(packet) in self.dupe:
             return False
-        # check if exceeding memory limit
-        if len(self.packets) == self.memoryLimit:
-            # remove old packet from queue, set and dict
-            old = self.packets.popleft()
-            self.s.remove(old)
-            self.d[old[1]].remove(old[2])
-        # insert new packet into queue, set and dict
-        self.packets.append(pkt)
-        self.s.add(pkt)
-        
+        ## then check memory
+        if self.memory == self.memoryLimit:
+            removed = self.router.popleft()
+            self.dupe.remove(tuple(removed))
+            self.d[removed[1]].remove(removed[2])
+            self.memory -= 1
+
+        self.router.append(packet)
+        self.dupe.add(tuple(packet))
         bisect.insort(self.d[destination], timestamp)
+        self.memory += 1
         return True
 
-        # ##check if already exists
-        # for pkt in self.packets:
-        #     if pkt[0] == source and pkt[1] == destination and pkt[2] == timestamp:
-        #         return False
-        # ## check if len exceeding memoryLimit
-        # numPackets = len(self.packets)
-        # if numPackets == self.memoryLimit:
-        #     self.packets.popleft()
-        # self.packets.append([source, destination, timestamp])
-        # return True
-
     def forwardPacket(self) -> List[int]:
-        if not self.packets:
-            return []
-        # return self.packets.popleft()
-        pkt = self.packets.popleft()
-        self.s.remove(pkt)
-        self.d[pkt[1]].remove(pkt[2])
-        return list(pkt)
+        if len(self.router):
+            packet = self.router.popleft()
+            self.dupe.remove(tuple(packet))
+            self.d[packet[1]].remove(packet[2])
+            self.memory -= 1
+            return packet
+        return []
 
     def getCount(self, destination: int, startTime: int, endTime: int) -> int:
         time = self.d[destination]
         left = bisect.bisect_left(time, startTime)
         right = bisect.bisect_right(time, endTime)
-        return right - left
-
-        # count = 0
-        # for pkt in self.packets:
-        #     if pkt[1] == destination and endTime >= pkt[2] >= startTime:
-        #         count += 1
-        # return count
+        return (right - left)
 
 
 # Your Router object will be instantiated and called as such:
