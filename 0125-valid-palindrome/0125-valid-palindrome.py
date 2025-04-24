@@ -13,5 +13,17 @@ class Solution:
                 return False
             l += 1
             r -= 1
+
+            # if not s[l].isalnum():
+            #     l += 1
+            #     # print(f"l: {l}")
+            # elif not s[r].isalnum():
+            #     r -= 1
+            #     # print(f"r: {r}")
+            # elif s[l] == s[r]:
+            #     l += 1
+            #     r -= 1
+            # else:
+            #     return False
         return True
 
