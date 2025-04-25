@@ -1,17 +1,17 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        left = 0
-        right = 0
-        maxLen = 0
-        count = defaultdict(int)
-        
-        for right in range(len(s)):
-            # if(k)
-            count[s[right]] += 1
-            while ((right - left + 1) - max(count.values()) > k):
-                count[s[left]] -= 1
-                left += 1
-            
-            maxLen = max(maxLen, right - left + 1)
-            
-        return maxLen
+        char_count = defaultdict(int)
+        max_freq = 0
+        max_len = 0
+        l = 0
+        for r in range(len(s)):
+            char_count[s[r]] += 1
+            max_freq = max(max_freq, char_count[s[r]])
+            if (r-l+1) - max_freq > k:
+                char_count[s[l]] -= 1
+                l += 1
+                
+            max_len = max(max_len, r-l+1)
+
+        return max_len
+
