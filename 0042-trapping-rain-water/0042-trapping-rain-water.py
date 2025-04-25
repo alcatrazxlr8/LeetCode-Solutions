@@ -1,41 +1,21 @@
 class Solution:
     def trap(self, height: List[int]) -> int:
-        left = 0
-        right = len(height) - 1
-        water = 0
-        maxLeft = height[left]
-        maxRight = height[right]
+        if not height:
+            return 0
+        
+        l = 0
+        r = len(height) - 1
+        leftMax = height[l]
+        rightMax = height[r]
+        ans = 0
 
-        while left < right:
-            # minMax = min(maxLeft, maxRight)
-            if maxLeft <= maxRight:
-                left += 1
-                maxLeft = max(height[left], maxLeft)
-                water += maxLeft - height[left]
+        while l < r:
+            if leftMax < rightMax:
+                l += 1
+                leftMax = max(leftMax, height[l])
+                ans += leftMax - height[l]
             else:
-                right -= 1
-                maxRight = max(height[right], maxRight)
-                water += maxRight - height[right]
-
-        return water
-
-        # ##### Difference in order of statements in outer if resulted in needing to explicitly check for negative water
-        # while left < right:
-        #     minMax = min(maxLeft, maxRight)
-        #     if maxLeft <= maxRight:
-        #         left += 1
-        #         currWater = minMax - height[left]
-        #         if currWater < 0:
-        #             currWater = 0
-        #         water += currWater
-        #         if height[left] > maxLeft:
-        #             maxLeft = height[left]
-        #     else:
-        #         right -= 1
-        #         currWater = minMax - height[right]
-        #         if currWater < 0:
-        #             currWater = 0
-        #         water += currWater
-        #         if height[right] > maxRight:
-        #             maxRight = height[right]
-        # return water
+                r -= 1
+                rightMax = max(rightMax, height[r])
+                ans += rightMax - height[r]
+        return ans
