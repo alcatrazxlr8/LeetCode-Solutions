@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0768-partition-labels) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Bucket Sort
 |  |
