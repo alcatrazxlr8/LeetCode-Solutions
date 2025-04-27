@@ -12,6 +12,5 @@ class Solution:
                     return False
             else:
                 stack.append(bracket)
-        if stack:
-            return False
-        return True
+
+        return not stack
