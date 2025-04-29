@@ -9,7 +9,7 @@ class Solution:
             if nums[r] == max_num:
                 count += 1
 
-            while count >= k:
+            while count == k:
                 ans += len(nums) - r  ## once we have reqd num of K, we add the remaining num of elements at the end after "r" since subarrays with those eles will also be valid
                 if nums[l] == max_num:
                     count -= 1
