@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 | [2551-apply-operations-to-an-array](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3827-implement-router](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3827-implement-router) |
@@ -394,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Bucket Sort
 |  |
 | ------- |
