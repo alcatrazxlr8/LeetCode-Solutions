@@ -1,19 +1,22 @@
 class Solution:
-    
     def search(self, nums: List[int], target: int) -> int:
-        left, right = 0, len(nums) - 1
-        while left <= right:
-            mid = left + int((right - left)/2)
+        l = 0
+        r = len(nums) - 1
+        while l <= r:
+            mid = l + (r-l)//2
             if nums[mid] == target:
                 return mid
-            if nums[left] <= nums[mid]:
-                if nums[left] <= target < nums[mid]:
-                    right = mid - 1 
+            # left sorted portion
+            if nums[l] <= nums[mid]:
+                if nums[l] > target or target> nums[mid]:
+                    l = mid + 1
                 else:
-                    left = mid + 1
-            elif nums[mid] <= nums[right]:
-                if nums[mid] < target <= nums[right]:
-                    left = mid + 1
+                    r = mid - 1
+            ## right sorted
+            else:
+                if nums[r] < target or target < nums[mid]:
+                    r = mid - 1
                 else:
-                    right = mid - 1
+                    l = mid + 1
+
         return -1
