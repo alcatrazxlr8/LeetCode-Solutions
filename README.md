@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [1023-time-based-key-value-store](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1483-rank-teams-by-votes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1483-rank-teams-by-votes) |
 | [1894-merge-strings-alternately](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0768-partition-labels](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0778-reorganize-string) |
+| [1023-time-based-key-value-store](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1483-rank-teams-by-votes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1483-rank-teams-by-votes) |
 | [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
@@ -200,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3827-implement-router](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Math
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0155-min-stack](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1023-time-based-key-value-store](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2139-detect-squares](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2139-detect-squares) |
 | [3827-implement-router](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3827-implement-router) |
