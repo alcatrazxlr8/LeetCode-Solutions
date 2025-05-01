@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1483-rank-teams-by-votes](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1483-rank-teams-by-votes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
