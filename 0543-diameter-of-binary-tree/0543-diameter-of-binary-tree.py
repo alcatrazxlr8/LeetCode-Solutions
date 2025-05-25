@@ -9,11 +9,11 @@ class Solution:
         dia = [0]
         def dfs(root):
             if not root:
-                return -1
-            left = dfs(root.left) + 1
-            right = dfs(root.right) + 1
+                return 0
+            left = dfs(root.left)     
+            right = dfs(root.right)     
+            depth = max(left, right) + 1
             dia[0] = max(dia[0], left + right)
-            return max(left, right)
+            return depth
         dfs(root)
         return dia[0]
-         
