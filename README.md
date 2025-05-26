@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Prefix Sum
 |  |
@@ -468,4 +471,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
