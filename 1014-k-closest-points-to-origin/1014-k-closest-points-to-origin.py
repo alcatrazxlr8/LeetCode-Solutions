@@ -5,14 +5,17 @@ class Solution:
             x, y = point[0], point[1]
             dist = x**2 + y**2
             return dist
+
         pointList = []
+        heapq.heapify(pointList)
         for point in points:
-            pointList.append([distance(point), point[0], point[1]])
+            heapq.heappush(pointList, [-distance(point), point])
+            if len(pointList) > k:
+                heapq.heappop(pointList)
 
         ans = []
-        heapq.heapify(pointList)
-        for _ in range(k):
-            dist, x, y = heapq.heappop(pointList)
-            ans.append([x, y])
+        while pointList:
+            dist, point = heapq.heappop(pointList)
+            ans.append(point)
 
         return ans
