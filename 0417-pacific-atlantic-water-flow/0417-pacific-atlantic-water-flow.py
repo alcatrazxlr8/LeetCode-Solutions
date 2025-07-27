@@ -1,53 +1,29 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
-        if not heights:
-            return []
         
-        m = len(heights)
-        n = len(heights[0])
+        ROWS = len(heights)
+        COLS = len(heights[0])
 
-        aq = deque()
-        pq = deque()
-        aVis = [[False] * n for _ in range(m)]
-        pVis = [[False] * n for _ in range(m)]
-        
-        for i in range(m):
-            aq.append([i, n-1])
-            pq.append([i, 0])
-            aVis[i][n-1] = True
-            pVis[i][0] = True
-            
-        for j in range(n):
-            aq.append([m-1, j])
-            pq.append([0, j])
-            aVis[m-1][j] = True
-            pVis[0][j] = True
-            
-        def bfs(q, vis):
-            
-            directions = [[0, 1], [0, -1], [1, 0], [-1, 0]]
+        def bfs(ocean):
+            visited = set(ocean)
+            q = deque(ocean)
+
+            directions = [[1,0], [0,1], [-1,0], [0,-1]]
             while q:
-                row, col = q.popleft()
+                r, c = q.popleft()
                 for dr, dc in directions:
-                    r = row + dr
-                    c = col + dc
-                    if 0 <= r < m and 0 <= c < n and not vis[r][c]:
-                        if heights[r][c] >= heights[row][col]:
-                            vis[r][c] = True
-                            q.append([r, c])
-                            
-        bfs(aq, aVis)
-        bfs(pq, pVis)
+                    row, col = r + dr, c + dc
+                    if row >= 0 and row < ROWS and col >= 0 and col < COLS and (row,col) not in visited and heights[row][col] >= heights[r][c]:
+                        visited.add((row, col))
+                        q.append([row, col])
+            return visited
+
+        pacific = [(x, 0) for x in range(ROWS)]+[(0, y) for y in range(COLS)]
+        atlantic = [(x, COLS-1) for x in range(ROWS)]+[(ROWS-1, y) for y in range(COLS)]
+
+        pacific = bfs(pacific)
+        atlantic = bfs(atlantic)
+        intersection = pacific & atlantic
         
-        res = []
-        
-        for i in range(m):
-            for j in range(n):
-                if aVis[i][j] and pVis[i][j]:
-                    res.append([i, j])
-                    
+        res = [[r, c] for r, c in intersection]
         return res
-        
-                
-        
-        
