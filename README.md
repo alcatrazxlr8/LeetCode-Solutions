@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Hash Table
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Graph
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -490,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -551,4 +555,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
