@@ -1,18 +1,19 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
+        operations = {"*": operator.mul, "/": operator.truediv, "+": operator.add, "-": operator.sub}
+
         stack = []
-        ops = {"+":operator.add, "-": operator.sub, "*": operator.mul, "/": operator.truediv}
-        for t in tokens:
-            if stack and t in ops:
-                op2 = stack.pop()
-                op1 = stack.pop()
-                op = ops.get(t)
-                ans = int(op(op1, op2))
-                # print(f"{op1} {op} {op2} = {ans}")
-                stack.append(ans)
+        for token in tokens:
+            # while stack:
+            if token in operations and stack:
+                ## we pop 2 elements
+                y = stack.pop()
+                x = stack.pop()
+                ## compute the result
+                res = operations[token](x, y)
+                ## push result back in
+                stack.append(int(res))
 
             else:
-                stack.append(int(t))
-
-        return stack[0]
-        
+                stack.append(int(token))
+        return int(stack[0])
