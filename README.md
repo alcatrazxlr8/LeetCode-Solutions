@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3429-special-array-i](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3429-special-array-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3827-implement-router](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Dynamic Programming
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1396-count-servers-that-communicate](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [3227-find-missing-and-repeated-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Greedy
 |  |
 | ------- |
