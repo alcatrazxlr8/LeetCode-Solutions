@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3830-find-closest-person](https://github.com/alcatrazxlr8/LeetCode-Solutions/tree/master/3830-find-closest-person) |
 ## Combinatorics
 |  |
 | ------- |
